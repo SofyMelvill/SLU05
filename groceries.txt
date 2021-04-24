@@ -1,5 +1,6 @@
 Milk
 Eggs
-Chocolat
+Chocolate
 Maize
 Butter
+Sugar
